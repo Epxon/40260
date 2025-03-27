@@ -1,0 +1,36 @@
+    <svg width="350" height="300" xmlns="http://www.w3.org/2000/svg">
+         <circle cx="120" cy="70" r="25" fill="#8C8C8C" 
+         stroke="currentcolor" stroke-width="2"></circle>
+
+         <circle cx="220" cy="70" r="25" fill="#8C8C8C" 
+         stroke="currentcolor" stroke-width="2"></circle>
+
+         <circle cx="170" cy="110" r="50" fill="#8C8C8C" 
+         stroke="currentcolor" stroke-width="2"></circle>
+         
+         <circle cx="120" cy="70" r="14" fill="pink" 
+         stroke="currentcolor" stroke-width="2"></circle>
+
+         <circle cx="220" cy="70" r="14" fill="pink" 
+         stroke="currentcolor" stroke-width="2"></circle>
+
+         <circle cx="150" cy="100" r="10" fill="black" 
+         stroke="currentcolor" stroke-width="2"></circle>
+
+         <circle cx="190" cy="100" r="10" fill="black" 
+         stroke="currentcolor" stroke-width="2"></circle>
+
+         <circle cx="187" cy="98" r="5" fill="white" 
+         stroke="currentcolor" stroke-width="2"></circle>
+
+         <circle cx="185" cy="106" r="2.5" fill="white" 
+         stroke="currentcolor" stroke-width="2"></circle>
+
+         <circle cx="145" cy="106" r="2.5" fill="white" 
+         stroke="currentcolor" stroke-width="2"></circle>
+
+         <circle cx="146" cy="98" r="5" fill="white" 
+         stroke="currentcolor" stroke-width="2"></circle>
+
+    </svg>
+    
